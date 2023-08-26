@@ -3,3 +3,6 @@ Hello!
 nginx
 nginx/
 ansible/hosts
+testweb.sh
+script.yml
+add_user.yml
