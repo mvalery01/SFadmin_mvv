@@ -1,6 +1,3 @@
-SkillFactory
-Hello!
-nginx
 nginx/
 ansible/hosts
 testweb.sh
